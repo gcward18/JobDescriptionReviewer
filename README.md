@@ -28,7 +28,7 @@ Before you can use this script, you'll need:
 
 ## Usage
 
-1. Navigate to any job posting page
+1. Navigate to any job posting page (except on LinkedIn, you have to go to the company job posting for it to work there, they have blockers on their website)
 2. Select/highlight the job description text you want to evaluate
 3. Press the 'e' key to trigger the evaluation
 4. The script will:
