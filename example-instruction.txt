@@ -1,0 +1,67 @@
+
+I am looking for mid/senior roles at top tech companies and startups,  200k+ total compensation.
+
+Never use em dashes in any generated text!
+
+Avoid using the sentence structure “Whether that’s (a, b, or c), I…”
+
+This is my resume: George ward | George@gmail.com | +1-57371264401
+Experience 
+iPerformX Full-Stack Team Lead / Scrum Master              May 2024-Jan 2025
+•  Led platform reliability initiatives improving REST API performance by 300% and reducing critical flow load times by 60%.
+•  Spearheaded git strategy revamp, slashing deployment downtime by 85%.
+•  Facilitated Agile ceremonies and CI/CD enhancements across teams, increasing sprint velocity by 20%.
+•  Fostered a feedback-driven, high-ownership culture that improved engagement by 30%.
+iPerformX Full-Stack Team Lead                    Sep 2023-May 2024
+•  Built scalable onboarding systems to integrate data from new client aircraft configurations across military units.
+•  Reduced technical debt and bug reports by 35% via close collaboration with stakeholders on system design.
+•  Delivered 95% accuracy in sprint commitments, improving team throughput and trust.
+•  Mentored 20+ engineers in best practices for testing, modular design, and onboarding.
+iPerformX Junior Full-Stack Developer                 Aug 2020-Sep 2023
+•  Optimized backend services in C# and SQL, improving data processing speeds by 40%.
+•  Migrated large-scale Angular applications across major versions (v14–16), ensuring platform integrity and maintainability.
+•  Collaborated cross-functionally to scale platform to thousands of DAUs and reduce QA turnaround by 25%.
+Intuitive Surgical Field Service Support Software Developer (Co-op) Jan 2020-Aug 2020
+• Developed a desktop GUI application using Python (PyQt5) and JavaScript for monitoring distributed Windows services, streamlining diagnostics for field service teams.
+• Automated build and deployment processes for desktop tools using PyInstaller, increasing delivery speed 30%.
+AT&T Software Engineering (Intern) May 2019-Aug 2019
+• Designed an internal augmented reality mobile app using Unity (C#) and Firebase for visualizing cellular network strength in real-time, improving field deployment workflows.
+• Built internal web application front-ends using React and back-end REST APIs using Java, operating within an Agile delivery environ
+Notable Projects:
+Posing Clinic – AI-Powered Bodybuilding Posing Feedback Platform
+URL: github.com/gcward18/PosingClinic
+•  Full-stack AI app built with React, FastAPI, Tailwind’s, and Docker. Analyzes bodybuilding poses using Meta LLaMA models.
+•  Integrated GroqCloud API and MinIO for image storage and inference orchestration.
+Scheduling Engine with Solver Algorithms
+•  Designed backend logic and Angular interface for schedule optimization system with improved response time and maintainability.
+CMS Enhancement with User-Based Content Control
+•  Enhanced content delivery using Python, TypeScript, and SQL Server; improved UI consistency and query performance.
+Performance Optimization Initiative
+•  Reduced Angular component render time by 40% through load time analysis, component refactoring, and memory tuning.
+Technical Knowledge
+Languages & Frameworks:
+•  Python, C#, TypeScript, SQL, Java, JavaScript
+•  Angular (v10–v17), React, Material UI, MVC, REST, PyTest, JUnit, Git
+Tools & DevOps:
+•  AWS (familiar), Azure (proficient), Docker, CI/CD, Azure DevOps
+•  Data pipelines, microservices, streaming & batch processing, modular/scalable architecture
+Education
+BS in Computer Science - Missouri University of Science and Technology 
+●  GPA 3.7/4.0, honored on Dean's List
+Military Service
+Missouri National Guard   (2015-2019) – 735th Support Battalion Solider of the Year
+US Navy (2011-2015) – Trained and supported ship operations and personnel
+
+If I use the command, “EVAL” followed by a J.D., I would like you to do an evaluation of a job based on my resume and job description and output the results as a nice table.
+Please be critical. If I am missing key qualifications on my resume, please clearly call these out, and indicate that the role is not a fit. As examples, I do not have deep experience with AI, ML,
+Data Science, Embedded systems... Please only say jobs where I 100% exceed all requirements are good fits. Also, if the job is not remote or in Seattle, it's probably not a great fit.
+
+Output:
+   - Fit for role
+   - Match to minimum qualifications
+   - Match to preferred qualifications
+   - Estimated compensation
+   - Remote policy
+   - Overall fit
+
+run EVAL J.D. on the next prompt
